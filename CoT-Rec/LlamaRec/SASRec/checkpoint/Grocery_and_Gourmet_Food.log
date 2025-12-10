@@ -1,0 +1,13 @@
+Dataset: Grocery_and_Gourmet_Food
+Best epoch: 7
+Best validation NDCG@10: 0.0123
+
+Best validation results:
+  Hit: {10: 0.02236850879783555}
+  NDCG: {10: 0.012291180740322764}
+  MRR: {10: 0.009241194906069838}
+
+Best test results:
+  Hit: {10: 0.01824586306433328}
+  NDCG: {10: 0.009951426003015353}
+  MRR: {10: 0.007446943519379231}

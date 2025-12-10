@@ -1,0 +1,1 @@
+Model structure referred from https://github.com/jhliu0807/CoT-Rec.
